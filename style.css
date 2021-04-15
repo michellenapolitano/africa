@@ -17,6 +17,15 @@ html {
   padding-bottom: 2vw;
 }
 
+a:link {
+  color: blue;
+}
+
+/* visited link */
+a:visited {
+  color: blue;
+}
+
 .region {
   font-weight: normal;
   font-size: 2rem;
